@@ -3,7 +3,7 @@ const searchBtn = document.getElementById("searchBtn");
 const weatherCard = document.getElementById("weather-card");
 const loader = document.getElementById("loader");
 
-const API_KEY = "API_KEY"; // Replace with your OpenWeatherMap API key
+const API_KEY = "830fa601674febcd005a3337e175d5fd"; // Replace with your OpenWeatherMap API key
 
 let currentWeatherData = null;
 let isCelsius = true;
